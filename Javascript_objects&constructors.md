@@ -92,3 +92,7 @@ Math is a built-in object that has properties and methods for mathematical const
     console.log(Math.sin(30)) //prints -0.9880316240928618 which sine value of 30
 ```
 There are several other methods like `Math.cos(x),Math.random(),Math.sign(x),Math.log(x),Math.abs(x)` etc
+
+
+
+##### Credits: Missingskill intiative by Samal Gorai, MDN docs
