@@ -4,6 +4,23 @@
 - Variables are containers that store values.
 - Javascript is dynamically typed language - run time data types i.e, a variable can be used to store any type of data - be it strings, integers, floating numbers etc.
 
+## Naming of variables
+
+- Variables are also known as identifiers similar to other programming languages.Variable naming has certain rules to be followed.
+
+    - variable name can begin only with a letter or underscore ( _ ).
+    - variable names can contain letters(a-z/A-Z), numbers(0-9) and dollar sign($).
+    - variable names can not contain any space or tabs.
+    - variable names are case-sensitive.
+    ```Javascript
+        var place1 = "Hassan";
+        let _phoneNumber = 9147500;
+        const name$ = "Meghana";
+        const NAME$ = "Deepika"; //name$ and NAME$ are different variables - case sensitive
+        let country name = "INDIA" //error -can not contain spaces
+    ```
+
+
 ## Data types
 ### Primitive data types
     - string
